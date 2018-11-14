@@ -1,3 +1,7 @@
 .container.content.container.content {
   background-color: rgb(12, 20, 56);
 }
+
+body {
+  color: red;
+}
